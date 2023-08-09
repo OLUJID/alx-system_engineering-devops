@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$input" | tr -d 'cC'
+echo "Input with c and C characters" | sed 's/[cC]//g'
