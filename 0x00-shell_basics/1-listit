@@ -1,2 +1,2 @@
 #!/bin/bash
-ls
+0-current_working_directory  0-hello_world  1-listit  2-bring_me_home  README.md
